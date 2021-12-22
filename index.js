@@ -60,11 +60,11 @@ function calculateBMI() {
 
   else if(age >65)
   {
-  if(bmi<24 )
-  alert(`your BMI is ${bmi} & you are underweight`)
-  else if(bmi <29)
-  alert(`your BMI is ${bmi} & you are healthy`)
-  else alert(`your BMI is ${bmi} & you are overweight`)
+  if(BMI<24 )
+  alert(`your BMI is ${BMI} & you are underweight`)
+  else if(BMI <29)
+  alert(`your BMI is ${BMI} & you are healthy`)
+  else alert(`your BMI is ${BMI} & you are overweight`)
   }
   
   
